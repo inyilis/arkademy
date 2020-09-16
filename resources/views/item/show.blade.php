@@ -27,7 +27,7 @@
 	  </tbody>
 	</table>
 	<div class="pt-3">
-		<a href="/items" class="btn btn-primary">Kembali</a>
+		<a href="/items" class="btn btn-primary">Back</a>
 	</div>
   </div>
 </div>

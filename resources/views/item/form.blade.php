@@ -25,7 +25,7 @@
 			    <label for="price">Price : </label>
 			    <input type="number" class="form-control" placeholder="Enter price" name="price">
 			  </div>
-			  <a href="/items" class="btn btn-primary">Kembali</a>
+			  <a href="/items" class="btn btn-primary">Back</a>
 			  <button type="submit" class="btn btn-primary">Tambah</button>
 		  </div>
 		</form>
